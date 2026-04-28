@@ -9,6 +9,7 @@ Welcome to my journey as I learn Pandas and other tools into getting conclusions
 ## Datasets so far
 
 ###Pokedex
-[[TypeFrequency.png]]
+<img width="1712" height="1375" alt="TypeFrequency" src="https://github.com/user-attachments/assets/c87f2d1f-d8e7-4496-8667-dfd6332eebab" />
+
 
 ###Water Quality (In Progress)
