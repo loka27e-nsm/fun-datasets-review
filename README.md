@@ -6,11 +6,8 @@ Welcome to my journey as I learn Pandas and other tools into getting conclusions
 * Jupyter Notebook (ipynb for Python)
 * Jupyter Extensions in VSCode
 
-## Datasets so far
+## Datasets so far (See Wiki for Detailed Insights)
 
 ### Pokedex (Height vs Stats No Longer Works)
-
-<img width="300" height="200" alt="TypeFrequency" src="https://github.com/user-attachments/assets/c87f2d1f-d8e7-4496-8667-dfd6332eebab" />
-
 
 ### Water Quality (In Progress)
