@@ -7,5 +7,8 @@ Welcome to my journey as I learn Pandas and other tools into getting conclusions
 * Jupyter Extensions in VSCode
 
 ## Datasets so far
-* Pokedex
-* Water Quality (In Progress)
+
+###Pokedex
+![Graph Description](TypeFrequency.png)
+
+###Water Quality (In Progress)
