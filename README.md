@@ -7,7 +7,7 @@ My pokedex figures are in the repository directly, although this may not be the 
 * Jupyter Notebook (ipynb for Python)
 * Jupyter Extensions in VSCode
 
-## Datasets so far (See Wiki for Detailed Insights)
+## Datasets so far (See Wiki for Details)
 
 ### [Pokdedex](https://www.kaggle.com/datasets/rounakbanik/pokemon) | 3/31/2026 | [What I Did](https://github.com/loka27e-nsm/fun-datasets-review/wiki/Pokemon-Dataset) 
 
